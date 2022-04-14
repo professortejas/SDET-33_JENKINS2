@@ -6,5 +6,6 @@ public class Class1Test {
 @Test
 	public void m1Test() {
 		System.out.println("m1 test from class 1");
+		System.out.println("changes done");
 	}
 }
